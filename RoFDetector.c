@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include <time.h>
 /* Author : Mehmet Ali EREL
+   Date   : 12/08/2022
 */
 
 /* 'CheckRoF' function has 4 attribute. New inpıt, old input, number of how many channel wanted to look, channel numbers and rise or fall*/
