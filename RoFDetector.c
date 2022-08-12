@@ -3,7 +3,8 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include <time.h>
-
+/* Author : Mehmet Ali EREL
+*/
 
 /* 'CheckRoF' function has 4 attribute. New inpıt, old input, number of how many channel wanted to look, channel numbers and rise or fall*/
 void CheckRoF(uint16_t NewInput, uint16_t OldInput,int NumberofChannel, int ChannelNumbers[], _Bool RoF){
